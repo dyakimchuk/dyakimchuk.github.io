@@ -37,7 +37,7 @@ a {
 
 .name {
   margin-bottom: 40px;
-  color: #47bec7;
+  color: #224c9b;
   font-size: 16px;
   line-height: 100%;
   letter-spacing: 1px;
@@ -153,7 +153,7 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/split1.jpg');
+  background-image: url("../images/BrowserPreview.jpg");
   background-position: 50% 50%;
   background-size: cover;
   -o-object-fit: cover;
@@ -238,4 +238,3 @@ a {
     max-height: 30vh;
   }
 }
-
