@@ -2,4 +2,4 @@
 
 dyakimchuk.github.io
 
-Enthusiast experimenting with CI/CD technics and AQ Automation.
+AQ Automation and CI/CD
