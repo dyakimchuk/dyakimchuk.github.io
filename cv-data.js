@@ -35,7 +35,7 @@ const data_personal = `
 `;
 
 const data_position = `
-<li>QA Automation Engineer @ <a href="#" target="_blank">Universum Global</a>a></li>
+<li>QA Automation Engineer @ <a href="#" target="_blank">Universum Global</a></li>
 <li>Since Apr 2021</li>
 <li></br></li>
 <li>Universum is the most recognised Employer Branding specialist in the world. Part of the StepStone Group and Axel Springer family, our diverse workforce is physically present in over 20 countries. We ensure employers around the world achieve their goals through data-driven Employer Branding. Consequently, this enables them to engage the talent they need to succeed.</li>
