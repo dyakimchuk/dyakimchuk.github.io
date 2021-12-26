@@ -27,40 +27,40 @@ const data_technical = `
 const data_personal = `
 <li>Upper – intermediate English communication skills (B2)</li>
 <li>High attention to details and organisation</li>
-<li>Strong communication skills for work with different groups within the project</li>
-<li>Service and teamwork orientation</li>
-<li>Good analytical skills and strong attention to details</li>
-<li>Willingness to understand complex systems </li>
+<li>Strong communication skills for work with different groups within the project </li>
+<li>Service and teamwork orientation
+<li>Good analytical skills</li>
+<li>Willingness to understand complex systems</li>
 <li>Self-motivated, self-disciplined and result-oriented</li>
 `;
 
-const data_pet = `
-<li>E2E tests with WDIO + mocha + chai + Allure</li>
-<li>API tests with Postman/newman</li>
-<li>Infrastructure: (Ubuntu on bare-metal): GGR, Selenoid, ReportPortal, Grafana, Prometheus, Alertmanager in Docker.</li>
-`;
-
-const data_exp = `
-<li>QA @ NDA, Part-time</li>
-<li>Jan 2019 – Aug 2020</li>
+const data_position = `
+<li>QA Automation Engineer @ <a href="#" target="_blank">Universum Global</a>a></li>
+<li>Since Apr 2021</li>
 <li></br></li>
-<li>Project:</li>
-<li>Complex infrastructure solution for project management, user permissions control and data synchronisation for DaVinci Resolve color grading software with web app and electron app.</li>
+<li>Universum is the most recognised Employer Branding specialist in the world. Part of the StepStone Group and Axel Springer family, our diverse workforce is physically present in over 20 countries. We ensure employers around the world achieve their goals through data-driven Employer Branding. Consequently, this enables them to engage the talent they need to succeed.</li>
 <li></br></li>
 <li>Responsibilities:</li>
-<li>- Creating checklists and test cases.</li>
-<li>- Bug reporting and verification</li>
-<li>- Functional, regression, E2E, UI testing</li>
-<li>- Rest API testing</li>
-<li>- Executing test runs and analysing results</li>
-<li>- Manual FE performance auditing</li>
+<li>Creating test plan and defining criteria and definitions</li>
+<li>Creating infrastructure infrastructure for auto tests.</li>
+<li>Creating and supporting UI-E2E auto tests from a scratch.</li>
+<li>Creating service for data verification and validation.</li>
+<li>Creating and maintaining new API tests with Node.js.</li>
+<li>Maintaining legacy API tests with Python.</li>
 `;
 
-const data_expect = `
-<li>Work on Web App</li>
-<li>Growth and education</li>
-<li>Ability to write and maintain automation tests</li>
-<li>Ability to influence project technologies</li>
-<li>Continuous self-improvement</li>
-<li>Improvement of automation skills</li>
+const data_stack = `
+<li>WDIO, Mocha, Chai, Allure, Got, Axios, Junit, Postman, Ubuntu, Docker, GGR, Selenoid, ReportPortal, Grafana, Prometheus, Alertmanager … and more.</li>
+`;
+
+const data_additional = `
+<li>Requirements testing/auditing/analys</li>
+<li>Agile(Scrum&Kanban)</li>
+<li>Jira, Confluence</li>
+<li>Knowledge of SDLC</li>
+<li>Good knowledge of bug life cycle</li>
+<li>Test design techniques</li>
+<li>Understanding micro-service based applications</li>
+<li>Basics of GDPR</li>
+<li>Passionate on DevOps learning to build CI/CD and infrastructure with AWS.</li>
 `;
