@@ -43,8 +43,23 @@ const data_personal = `
 `;
 
 const data_position = `
-<li>Senior QA Automation Engineer @ <a href="https://universumglobal.com/" target="_blank">Universum Global</a></li>
-<li>Since Apr 2021</li>
+<li><b><a href="https://www.pwc.com/" target="_blank">PwC - PricewaterhouseCoopers</a> - Senior QA Automation Engineer</b></li>
+<li>Since May 2025</li>
+<li></br></li>
+<li>PwC (short for PricewaterhouseCoopers) is one of the “Big Four” accounting firms in the world. At PwC, we help clients drive their companies to the leading edge. We’re a tech-forward, people-empowered network with more than 370,000 people in 149 countries. Across audit and assurance, tax and legal, deals and consulting we help build, accelerate and sustain momentum.</li>
+<li></br></li>
+<li>Responsibilities:</li>
+<li>Maintaining framework based on Playwright .NET</li>
+<li>Developing and maintaining UI autotests.</li>
+<li>Developing and maintaining API autotests.</li>
+<li>Managing reporting and pipelines integrations (Azure DevOps)</li>
+<li>Daily reporting of current project status.</li>
+<li>Verification of the delivery process.</li>
+
+
+<li></br></li><li></br></li>
+<li><b><a href="https://universumglobal.com/" target="_blank">Universum Global</a> - Senior QA Automation Engineer</b></li>
+<li>Apr 2021 - May 2025</li>
 <li></br></li>
 <li>Universum is the most recognised Employer Branding specialist in the world. Part of the StepStone Group and Axel Springer family, our diverse workforce is physically present in over 20 countries. We ensure employers around the world achieve their goals through data-driven Employer Branding. Consequently, this enables them to engage the talent they need to succeed.</li>
 <li></br></li>
@@ -56,7 +71,7 @@ const data_position = `
 <li>Performance testing with K6</li>
 <li>Developing a service for data verification and validation.</li>
 <li>Daily reporting of current project status.</li>
-<li>Execution and verification of delivery process.</li>
+<li>Execution and verification of the delivery process.</li>
 <li>Mentoring of Junior QA Automation specialist.</li>
 `;
 
